@@ -5,6 +5,10 @@ HiveNote PublicPage
 
 https://play.google.com/store/apps/details?id=com.olivearchi.goodroutine
 
+## 기록하고 듣는 자율 학습  
+## 수험생을 위한 요약 노트 반복 학습  
+## 독서 기록 기록 정리  
+
 # 주요기능
 기록한 메모를 주제별로 들을 수 있는 메모장 입니다.  
 다양한 주제로 메모장 관리 할 수 있습니다.  
