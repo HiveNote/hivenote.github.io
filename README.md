@@ -47,6 +47,6 @@ Pick 기능 상단의 내용 숨기기를 사용해서, 제목만 보고 내용�
 <img width="290" height="600" alt="KakaoTalk_20260727_204010599_12" src="https://github.com/user-attachments/assets/9b6790fb-6996-4c6d-8cf3-a238ecbdcca5" />
 <img width="290" height="600" alt="KakaoTalk_20260727_204010599" src="https://github.com/user-attachments/assets/536c98ba-9fe9-409c-9b7a-0e58c264a953" />
 <img width="290" height="600" alt="KakaoTalk_20260727_204010599_02" src="https://github.com/user-attachments/assets/65c557ce-eff3-4b48-be68-cdfd63473cc3" />
-
+<img width="290" height="600" alt="KakaoTalk_20260727_204010599_01" src="https://github.com/user-attachments/assets/4eeb5221-dd38-458e-b6d9-ea512d9148d8" />
 
 
