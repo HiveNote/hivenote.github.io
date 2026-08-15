@@ -42,11 +42,13 @@ Pick 기능 상단의 내용 숨기기를 사용해서, 제목만 보고 내용�
 
 
 <img width="269" height="600" alt="KakaoTalk_20260727_204010599_06" src="https://github.com/user-attachments/assets/2b50619f-5da0-4706-a62c-bdb1e9efe9eb" />
+<img width="269" height="600" alt="image2" src="https://github.com/user-attachments/assets/cb551f3d-364c-4d31-906d-a3a7cf37e027" />
 <img width="269" height="600" alt="image3" src="https://github.com/user-attachments/assets/5fd226d6-db77-47b1-8b34-f69f048d5ee3" />
 <img width="269" height="600" alt="image4" src="https://github.com/user-attachments/assets/f4fbea52-21e4-44e6-9d9a-99fc17156928" />
 <img width="269" height="600" alt="KakaoTalk_20260727_204010599_12" src="https://github.com/user-attachments/assets/9b6790fb-6996-4c6d-8cf3-a238ecbdcca5" />
 <img width="269" height="600" alt="image5" src="https://github.com/user-attachments/assets/b0c193ad-9b58-4bfe-97a8-2865cdac20c2" />
 <img width="269" height="600" alt="KakaoTalk_20260727_204010599_02" src="https://github.com/user-attachments/assets/65c557ce-eff3-4b48-be68-cdfd63473cc3" />
-<img width="269" height="600" alt="KakaoTalk_20260727_204010599_01" src="https://github.com/user-attachments/assets/4eeb5221-dd38-458e-b6d9-ea512d9148d8" />
+<img width="269" height="600" alt="image1" src="https://github.com/user-attachments/assets/a0bb0443-cacc-430c-9baf-ea4fbed2fc1b" />
+
 
 
