@@ -40,10 +40,10 @@ Pick 기능 상단의 내용 숨기기를 사용해서, 제목만 보고 내용�
 잘들기 전에 요약노트 전체 듣기를 해 보세요.  
 색상별/즐겨찾기로 구분해서 듣기 가능합니다.  
 
-<img width="269" height="600" alt="KakaoTalk_20260727_204010599_03" src="https://github.com/user-attachments/assets/31b3ac96-cdee-43c6-8796-cdb3606f2c1d" />
+
 <img width="269" height="600" alt="KakaoTalk_20260727_204010599_06" src="https://github.com/user-attachments/assets/2b50619f-5da0-4706-a62c-bdb1e9efe9eb" />
 <img width="269" height="600" alt="KakaoTalk_20260727_204010599_12" src="https://github.com/user-attachments/assets/9b6790fb-6996-4c6d-8cf3-a238ecbdcca5" />
-<img width="269" height="600" alt="KakaoTalk_20260727_204010599" src="https://github.com/user-attachments/assets/536c98ba-9fe9-409c-9b7a-0e58c264a953" />
+
 <img width="269" height="600" alt="KakaoTalk_20260727_204010599_02" src="https://github.com/user-attachments/assets/65c557ce-eff3-4b48-be68-cdfd63473cc3" />
 <img width="269" height="600" alt="KakaoTalk_20260727_204010599_01" src="https://github.com/user-attachments/assets/4eeb5221-dd38-458e-b6d9-ea512d9148d8" />
 
