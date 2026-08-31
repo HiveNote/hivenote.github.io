@@ -54,15 +54,17 @@ ii. 구글 드라이브 -> 설정 -> 앱 관리 -> 'GoodRoutine' 선택 후 [숨
 
 <img width="1000" height="500" alt="layout" src="https://github.com/user-attachments/assets/c889d256-99af-4185-932a-712cbec87cac" />
 <img width="269" height="600" alt="암기루프_PlayStore_01" src="https://github.com/user-attachments/assets/cbadb19e-f000-49db-9b53-a7e4ce82b189" />
-<img width="269" height="600" alt="암기루프_PlayStore_02" src="https://github.com/user-attachments/assets/ceb94499-0481-4ea4-82ed-21b2143c7ee2" />
-<img width="269" height="600" alt="암기루프_PlayStore_03" src="https://github.com/user-attachments/assets/ede59683-b4a0-4da8-8ce1-e834b5ae41ae" />
-<img width="269" height="600" alt="암기루프_PlayStore_04" src="https://github.com/user-attachments/assets/29203646-adf5-40e9-a0a3-d12ec8541557" />
-<img width="269" height="600" alt="암기루프_PlayStore_05" src="https://github.com/user-attachments/assets/4f64f78d-5066-4fd9-acc3-5106a479b9aa" />
-<img width="269" height="600" alt="암기루프_PlayStore_06" src="https://github.com/user-attachments/assets/7d51a140-c55d-45aa-a69d-90e983666ae8" />
-<img width="269" height="600" alt="암기루프_PlayStore_07" src="https://github.com/user-attachments/assets/c049fe31-837e-4b81-8144-a6135ec280fa" />
-<img width="269" height="600" alt="암기루프_PlayStore_08" src="https://github.com/user-attachments/assets/3d90adb0-6dfa-4ed7-910a-74199f26f7d3" />
-<img width="269" height="600" alt="암기루프_PlayStore_09" src="https://github.com/user-attachments/assets/6d5f39a1-c68d-4d15-be37-66c52b3dd5c1" />
-<img width="269" height="600" alt="암기루프_PlayStore_10" src="https://github.com/user-attachments/assets/9414997d-bcfb-406b-a701-314aa6a81a6b" />
+<img width="269" height="600" alt="암기루프_PlayStore_02" src="https://github.com/user-attachments/assets/317d33c5-dce5-4a78-ab29-1edfca18877a" />
+<img width="269" height="600" alt="암기루프_PlayStore_03" src="https://github.com/user-attachments/assets/0fbe4018-3e64-4ff2-9c3c-14f43110440a" />
+<img width="269" height="600" alt="암기루프_PlayStore_04" src="https://github.com/user-attachments/assets/2350d6ca-ea03-4829-b219-beae4701cb3a" />
+<img width="269" height="600" alt="암기루프_PlayStore_05" src="https://github.com/user-attachments/assets/bb751085-07a3-40b5-a820-f24028b5203b" />
+<img width="269" height="600" alt="암기루프_PlayStore_06" src="https://github.com/user-attachments/assets/2eaf58c2-b17e-4d56-bd84-c84c886f4c3d" />
+<img width="269" height="600" alt="암기루프_PlayStore_07" src="https://github.com/user-attachments/assets/57cba1b7-56a0-425f-b4aa-effd935df7ec" />
+<img width="269" height="600" alt="암기루프_PlayStore_08" src="https://github.com/user-attachments/assets/3c98cd7e-a9e6-4a54-815d-0d2d5b421888" />
+<img width="269" height="600" alt="암기루프_PlayStore_09" src="https://github.com/user-attachments/assets/baf90fa3-d35b-4335-ba43-2dee44fc7d57" />
+<img width="269" height="600" alt="암기루프_PlayStore_10" src="https://github.com/user-attachments/assets/19cf2ff7-d4a3-41b2-b053-266dd927017c" />
+
+
 
 
 
