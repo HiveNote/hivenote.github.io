@@ -49,8 +49,8 @@ Pick 기능 상단의 내용 숨기기를 사용해서, 제목만 보고 내용�
 # [계정 및 데이터 삭제 안내]  
 본 앱은 별도의 자체 서버에 사용자 정보를 저장하지 않습니다.  
 사용자가 구글 드라이브 백업 기능을 위해 연동한 구글 계정 정보 및 백업 데이터는 다음의 방법으로 직접 삭제하실 수 있습니다.  
-i. 구글 계정 설정 -> 보안 -> 계정 액세스 권한이 있는 제3자 앱 -> 'GoodRoutine' 선택 후 [액세스 권한 삭제]  
-ii. 구글 드라이브 -> 설정 -> 앱 관리 -> 'GoodRoutine' 선택 후 [숨겨진 앱 데이터 삭제]  
+i. 구글 계정 설정 -> 보안 -> 계정 액세스 권한이 있는 제3자 앱 -> '암기루프 GoodRoutine' 선택 후 [액세스 권한 삭제]  
+ii. 구글 드라이브 -> 설정 -> 앱 관리 -> '암기루프 GoodRoutine' 선택 후 [숨겨진 앱 데이터 삭제]  
 
 <img width="1000" height="500" alt="layout" src="https://github.com/user-attachments/assets/c889d256-99af-4185-932a-712cbec87cac" />
 <img width="269" height="600" alt="암기루프_PlayStore_01" src="https://github.com/user-attachments/assets/cbadb19e-f000-49db-9b53-a7e4ce82b189" />
