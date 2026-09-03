@@ -31,6 +31,9 @@ Pick 기능 상단의 내용 숨기기를 사용해서, 제목만 보고 내용�
 # 공유 기능을 사용해 보세요.  
 텍스트나 그림 카드로 메모 내용을 공유 할 수 있습니다.  
 
+# 잘 정리된 요약은 함께 공부하는 분들과 공유 하세요.  
+App으로 공유(File)하시면, 암기루프에서 읽을 수 있습니다.(Json)  
+
 # 위젯을 활용해 보세요.  
 배경 화면에서 Pick 과 동일한 설정으로 학습을 할 수 있습니다.  
 
@@ -63,18 +66,5 @@ ii. 구글 드라이브 -> 설정 -> 앱 관리 -> '암기루프 GoodRoutine' �
 <img width="269" height="600" alt="암기루프_PlayStore_08" src="https://github.com/user-attachments/assets/3c98cd7e-a9e6-4a54-815d-0d2d5b421888" />
 <img width="269" height="600" alt="암기루프_PlayStore_09" src="https://github.com/user-attachments/assets/baf90fa3-d35b-4335-ba43-2dee44fc7d57" />
 <img width="269" height="600" alt="암기루프_PlayStore_10" src="https://github.com/user-attachments/assets/19cf2ff7-d4a3-41b2-b053-266dd927017c" />
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
