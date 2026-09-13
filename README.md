@@ -1,3 +1,4 @@
+<img width="1254" height="1254" alt="ChatGPT Image 2026년 9월 13일 오전 09_10_48" src="https://github.com/user-attachments/assets/cc75da19-3a7b-46c3-9dfa-f17bde3d3dd1" />
 # hivenote.github.io
 암기루프 PublicPage
 
@@ -55,9 +56,8 @@ App으로 공유(File)하시면, 암기루프에서 읽을 수 있습니다.(Jso
 i. 구글 계정 설정 -> 보안 -> 계정 액세스 권한이 있는 제3자 앱 -> '암기루프 GoodRoutine' 선택 후 [액세스 권한 삭제]  
 ii. 구글 드라이브 -> 설정 -> 앱 관리 -> '암기루프 GoodRoutine' 선택 후 [숨겨진 앱 데이터 삭제]  
 
+<img width="1000" height="1000" alt="셀프테스트" src="https://github.com/user-attachments/assets/b75f53ff-87c4-41ce-b4dc-9ae2e5770771" />
 <img width="1000" height="1000" alt="공유기능" src="https://github.com/user-attachments/assets/cadcb882-f1b0-441f-bc85-097f494d2e15" />
-
-
 <img width="1000" height="500" alt="layout" src="https://github.com/user-attachments/assets/c889d256-99af-4185-932a-712cbec87cac" />
 <img width="269" height="600" alt="암기루프_PlayStore_01" src="https://github.com/user-attachments/assets/cbadb19e-f000-49db-9b53-a7e4ce82b189" />
 <img width="269" height="600" alt="암기루프_PlayStore_02" src="https://github.com/user-attachments/assets/317d33c5-dce5-4a78-ab29-1edfca18877a" />
